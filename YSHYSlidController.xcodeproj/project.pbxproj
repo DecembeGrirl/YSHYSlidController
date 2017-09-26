@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E50DD9551C3377900082FBDD /* YSHYSlidController.gif in Resources */ = {isa = PBXBuildFile; fileRef = E50DD9541C3377900082FBDD /* YSHYSlidController.gif */; settings = {ASSET_TAGS = (); }; };
+		E50DD9551C3377900082FBDD /* YSHYSlidController.gif in Resources */ = {isa = PBXBuildFile; fileRef = E50DD9541C3377900082FBDD /* YSHYSlidController.gif */; };
 		E55B5CB31C22827000B01016 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E55B5CB21C22827000B01016 /* main.m */; };
 		E55B5CB61C22827000B01016 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E55B5CB51C22827000B01016 /* AppDelegate.m */; };
 		E55B5CB91C22827000B01016 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E55B5CB81C22827000B01016 /* ViewController.m */; };
@@ -15,15 +15,15 @@
 		E55B5CC11C22827000B01016 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E55B5CBF1C22827000B01016 /* LaunchScreen.storyboard */; };
 		E55B5CCC1C22827000B01016 /* YSHYSlidControllerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E55B5CCB1C22827000B01016 /* YSHYSlidControllerTests.m */; };
 		E55B5CD71C22827000B01016 /* YSHYSlidControllerUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = E55B5CD61C22827000B01016 /* YSHYSlidControllerUITests.m */; };
-		E55B5CF71C22829B00B01016 /* icon_back@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E55B5CE61C22829B00B01016 /* icon_back@2x.png */; settings = {ASSET_TAGS = (); }; };
-		E55B5CF81C22829B00B01016 /* icon_back@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E55B5CE71C22829B00B01016 /* icon_back@3x.png */; settings = {ASSET_TAGS = (); }; };
-		E55B5CF91C22829B00B01016 /* more.png in Resources */ = {isa = PBXBuildFile; fileRef = E55B5CE81C22829B00B01016 /* more.png */; settings = {ASSET_TAGS = (); }; };
-		E55B5CFB1C22829B00B01016 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E55B5CEB1C22829B00B01016 /* MainViewController.m */; settings = {ASSET_TAGS = (); }; };
-		E55B5CFC1C22829B00B01016 /* OtherViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E55B5CED1C22829B00B01016 /* OtherViewController.m */; settings = {ASSET_TAGS = (); }; };
-		E55B5CFD1C22829B00B01016 /* BaseController.m in Sources */ = {isa = PBXBuildFile; fileRef = E55B5CF01C22829B00B01016 /* BaseController.m */; settings = {ASSET_TAGS = (); }; };
-		E55B5CFE1C22829B00B01016 /* CustomNavbar.m in Sources */ = {isa = PBXBuildFile; fileRef = E55B5CF21C22829B00B01016 /* CustomNavbar.m */; settings = {ASSET_TAGS = (); }; };
-		E55B5CFF1C22829B00B01016 /* LeftMenuController.m in Sources */ = {isa = PBXBuildFile; fileRef = E55B5CF41C22829B00B01016 /* LeftMenuController.m */; settings = {ASSET_TAGS = (); }; };
-		E55B5D001C22829B00B01016 /* YSHYSlideViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E55B5CF61C22829B00B01016 /* YSHYSlideViewController.m */; settings = {ASSET_TAGS = (); }; };
+		E55B5CF71C22829B00B01016 /* icon_back@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E55B5CE61C22829B00B01016 /* icon_back@2x.png */; };
+		E55B5CF81C22829B00B01016 /* icon_back@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E55B5CE71C22829B00B01016 /* icon_back@3x.png */; };
+		E55B5CF91C22829B00B01016 /* more.png in Resources */ = {isa = PBXBuildFile; fileRef = E55B5CE81C22829B00B01016 /* more.png */; };
+		E55B5CFB1C22829B00B01016 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E55B5CEB1C22829B00B01016 /* MainViewController.m */; };
+		E55B5CFC1C22829B00B01016 /* OtherViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E55B5CED1C22829B00B01016 /* OtherViewController.m */; };
+		E55B5CFD1C22829B00B01016 /* BaseController.m in Sources */ = {isa = PBXBuildFile; fileRef = E55B5CF01C22829B00B01016 /* BaseController.m */; };
+		E55B5CFE1C22829B00B01016 /* CustomNavbar.m in Sources */ = {isa = PBXBuildFile; fileRef = E55B5CF21C22829B00B01016 /* CustomNavbar.m */; };
+		E55B5CFF1C22829B00B01016 /* LeftMenuController.m in Sources */ = {isa = PBXBuildFile; fileRef = E55B5CF41C22829B00B01016 /* LeftMenuController.m */; };
+		E55B5D001C22829B00B01016 /* YSHYSlideViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E55B5CF61C22829B00B01016 /* YSHYSlideViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -270,6 +270,7 @@
 				TargetAttributes = {
 					E55B5CAD1C22827000B01016 = {
 						CreatedOnToolsVersion = 7.0;
+						DevelopmentTeam = CV6BXNLMXG;
 					};
 					E55B5CC61C22827000B01016 = {
 						CreatedOnToolsVersion = 7.0;
@@ -475,10 +476,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = YSHYSlidController/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.YSHY.YSHYSlidController;
+				PRODUCT_BUNDLE_IDENTIFIER = com.YSHY.YSHYSlidControlleraa;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -487,10 +489,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = YSHYSlidController/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.YSHY.YSHYSlidController;
+				PRODUCT_BUNDLE_IDENTIFIER = com.YSHY.YSHYSlidControlleraa;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
